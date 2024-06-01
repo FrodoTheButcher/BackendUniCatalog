@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/0mhUVYZvY0GUHFSZUkXjnecVvx+AozzQUfsHbzosCpmXZeDNFYjWHbwWkTMv7osL8Y7AeKyF0QrUgI6wsg1pQ==",
+  "dgSpecHash": "ay7v+Eo/xDfPgTjjn0YZgyItPFjlFZ6TlclPKmj3JE95DzlLaym3xfGj/c+3PhvuZUADyvLuhrsFXDRrJWvxSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robi\\Desktop\\bk\\backendMine\\backendMine.csproj",
+  "projectFilePath": "C:\\Users\\Robi\\Desktop\\BackendUniCatalog\\bk\\backendMine\\backendMine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Robi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
