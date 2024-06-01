@@ -52,19 +52,19 @@ namespace backendMine.Controllers
     {
       var filters = new List<FilterDefinition<User>>();
 
-      if (ciclu != null)
+      if (!string.IsNullOrEmpty(ciclu))
       {
         filters.Add(Builders<User>.Filter.Eq(x => x.CicluInvatamant, ciclu));
       }
-      if (program != null)
+      if (!string.IsNullOrEmpty(program))
       {
         filters.Add(Builders<User>.Filter.Eq(x => x.ProgramStudiu, program));
       }
-      if (an != null)
+      if (!string.IsNullOrEmpty(an))
       {
         filters.Add(Builders<User>.Filter.Eq(x => x.AnStudiu, an));
       }
-      if (semestru != null)
+      if (!string.IsNullOrEmpty(semestru))
       {
         filters.Add(Builders<User>.Filter.Eq(x => x.Semestru, semestru));
       }
